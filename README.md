@@ -75,7 +75,7 @@ The core of the project is the `CrowdWisdomBot` Clarity smart contract. Here's a
 
 ## Contact
 
-For questions or support, please open an issue in the GitHub repository or contact [CONTACT INFORMATION].
+For questions or support, please open an issue in the GitHub repository .
 
 ---
 
